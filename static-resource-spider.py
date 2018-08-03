@@ -140,7 +140,7 @@ eg:
     basePath => F:\Programs\python\python-spider-downloads
     resourcePath => /a/b/c/ or a/b/c
 
-    return => F:\Programs\python\python-spider-downloads/a/b/c
+    return => F:\Programs\python\python-spider-downloads\a\b\c
 '''
 def resolvePath(basePath, resourcePath):
     # 解析资源路径
